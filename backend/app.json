@@ -1,0 +1,7 @@
+{
+    "env": {
+        "mongo_URL": {
+          "value":"mongodb+srv://Kat:bunny_KAT_25@inotebookcluster.delsr.mongodb.net/iNoteBook?retryWrites=true&w=majority"
+        }
+    }
+}
